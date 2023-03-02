@@ -1,13 +1,23 @@
+![header](https://capsule-render.vercel.app/api?type=Waving&color=0:e6e6ff,100:00001a&height=180&section=header&text=Hello!%20Onda2Me&fontSize=40&fontAlignY=35)
+
+
 ### 💬 안녕하세요. 자바개발자 onda2me 입니다.
 
 <hr>     
 
 ### 개발블로그      
 
-⚡ [onda2me:java & 알고리즘](https://onda2me.github.io/)  
+- ⚡ [onda2me.github.io : java & 알고리즘](https://onda2me.github.io/)  
+  - java
+  - spring
+  - vue
+  - algorithm
+  - github.io
 
-⚡ [onda2me:스크래치 & 코딩](https://onda2me.github.io/docs/)  
-
+- ⚡ [onda2me.github.io/docs : 스크래치 & 블록코딩](https://onda2me.github.io/docs/)  
+  - scratch 
+  - arduino
+  - block coding
 
 
 <!--
