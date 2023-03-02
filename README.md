@@ -21,11 +21,11 @@
 
 <hr>
 
-### Repositories Languages
-
 [![onda2me's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=onda2me&theme=buefy&layout=compact&exclude_repo=onda2me.github.io,docs)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
+### Repositories Languages
+
 # github-readme-stats repository
   https://github.com/anuraghazra/github-readme-stats
 
