@@ -7,7 +7,7 @@
 
 ### 개발블로그      
 
-- ⚡ [onda2me.github.io : java & 알고리즘](https://onda2me.github.io/)  
+- ⚡ [onda2me.github.io : 자바 & 알고리즘](https://onda2me.github.io/)  
   - java
   - spring
   - vue
