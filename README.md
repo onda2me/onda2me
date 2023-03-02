@@ -21,9 +21,14 @@
 
 <hr>
 
-[![onda2me's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=onda2me&layout=compact&exclude_repo=onda2me.github.io)](https://github.com/anuraghazra/github-readme-stats)
+### Repositories Languages
+
+[![onda2me's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=onda2me&theme=buefy&layout=compact&exclude_repo=onda2me.github.io,docs)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
+# github-readme-stats repository
+  https://github.com/anuraghazra/github-readme-stats
+
 [![onda2me's github stats](https://github-readme-stats.vercel.app/api?username=onda2me)](https://github.com/onda2me/github-readme-stats)
 
 **onda2me/onda2me** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
