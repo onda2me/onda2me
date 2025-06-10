@@ -3,18 +3,12 @@
 ### 개발블로그      
 
 - ⚡ [Java & Algorithm : https:/onda2me.github.io/](https://onda2me.github.io/)  
-  - java
-  - spring
-  - vue
-  - algorithm
-  - github.io
+  - java, springboot, vue
 
 - ⚡ [Scratch & BlockCoding : https:/onda2me.github.io/docs](https://onda2me.github.io/docs/)  
-  - scratch 
-  - arduino
-  - block coding
+  - scratch, arduino, block coding
 
-- ⚡ [Google Cloud : [https://ondago365.web.app/](https://ondago365.web.app/)
+- ⚡ [Google Cloud : https://ondago365.web.app/](https://ondago365.web.app/)
   - google firebase, cloud run, firestore, AI
     
 <hr>
